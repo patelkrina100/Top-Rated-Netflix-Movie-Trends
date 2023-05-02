@@ -26,11 +26,13 @@ the best chance of optimal engagement, in turn increasing their revenue.
 # Introduction to the Data
 We used two different csv files in our project, and both came from Kaggle.com. We downloaded
 them directly from the Kaggle website and used Google Sheets/Excel to open and read the data:
+
 ● “netflix_titles.csv”: contained a list of tv shows and movies available on Netflix as of
 2019 (however it was updated in 2021); collected from Flixable, a third-party Netflix
 search engine; included the column names: “show_id”, “type”, “title”, “director”, “cast”,
 “country”, “date_added”, “release_year”, “rating”, “duration”, “listed_in”, and
 “description”.
+
 ● “MoviesOnStreamingPlatforms.csv”: scraped from the Rotten Tomatoes website;
 provided a list of ratings of all movies available on various streaming platforms (last
 updated in 2021); it included the column names: “ID”, “Title”, “Year”, “Age”, “Rotten
