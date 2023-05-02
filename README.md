@@ -1,7 +1,7 @@
 # Trends_In_Top-Rated_Netflix_Movies
 Python program that analyzes Netflix movies against Rotten Tomatoes ratings to conclude the ideal characteristics a movie should have to receive the most optimal rating and engagement
 
-** works best in Anaconda Spyder **
+** Opens best using Anaconda Spyder **
 
 
 # Problem Statement and Background
